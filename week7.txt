@@ -1,0 +1,3 @@
+Passcodes: Toad and Deep
+Participation: This week I turned my camera on during both Tuesday's and thursday's lecture.
+Project: I am working on my game 2048. I am done with html and styling but having trouble with javascript. So I am watching some tutorials for help. Hopefully will figure out in this week.
